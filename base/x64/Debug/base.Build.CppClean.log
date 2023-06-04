@@ -7,6 +7,8 @@ e:\glgems\base\x64\debug\stb.obj
 e:\glgems\base\x64\debug\shaderclass.obj
 e:\glgems\base\x64\debug\elementbufferobject.obj
 e:\glgems\base\x64\debug\camera.obj
+e:\glgems\base\x64\debug\model.obj
+e:\glgems\base\x64\debug\mesh.obj
 e:\glgems\debug\base.lib
 e:\glgems\base\x64\debug\base.tlog\cl.command.1.tlog
 e:\glgems\base\x64\debug\base.tlog\cl.read.1.tlog
