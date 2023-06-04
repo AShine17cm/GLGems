@@ -1,0 +1,5 @@
+﻿  Building Custom Rule E:/GLGems/glew-2.1.0/build/cmake/CMakeLists.txt
+  glew.c
+    正在创建库 E:/GLGems/glew-2.1.0/bin/lib/Debug/glew32d.lib 和对象 E:/GLGems/glew-2.1.0/bin/lib/Debug/glew32d.exp
+LINK : warning LNK4281: x64 映像的基址 0x62AA0000 不适当；将基址设为 4 GB 以上以实现最佳 ASLR 优化
+  glew.vcxproj -> E:\GLGems\glew-2.1.0\bin\bin\Debug\glew32.dll

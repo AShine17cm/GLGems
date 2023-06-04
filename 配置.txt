@@ -1,0 +1,23 @@
+VC++ 目录  	包含目录	glfw-3.3.7 / include
+VC++ 目录	引用目录 	glfw-3.3.7/lib-vc2019
+
+链接器	输入	附加依赖项  glfw3.lib		glew32s.lib		opengl32.lib
+
+使用 glew32s.lib  	(总是出错，所以用了 glew32d.lib+glew32.dll   dll放在了 exe文件夹)
+glew-2.1.0 文件夹 	可以生成 glew32.lib+glew32.dll	以及	glew32s.lib
+
+
+glew 下载		https://glew.sourceforge.net/
+可视化编辑	OpenScene	https://www.opengl.org/sdk/libs/OpenSceneGraph/
+
+
+glew.h 需要比 gl.h 先被包含
+
+///////////////////////////////////
+glad		https://glad.dav1d.de/		需要扩展 可以随时生成
+glad.h	必须放在 glfw3.h 或者 glut.h 之前
+
+/////////////////////////////////////////////
+C/C++ 常规	附加包含目录	GLGems/base
+链接器  常规	附加库目录	GLGems/Debug
+链接器  输入	附加依赖项	base.lib

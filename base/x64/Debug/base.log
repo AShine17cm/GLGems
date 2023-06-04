@@ -1,0 +1,10 @@
+﻿  Camera.cpp
+  ElementBufferObject.cpp
+  shaderClass.cpp
+  stb.cpp
+  Texture.cpp
+  VertexArrayObject.cpp
+E:\GLGems\base\VertexArrayObject.cpp(18,62): warning C4244: “参数”: 从“GLsizeiptr”转换到“GLsizei”，可能丢失数据
+  VertexBufferObject.cpp
+  正在生成代码...
+  base.vcxproj -> E:\GLGems\Debug\base.lib

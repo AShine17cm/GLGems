@@ -1,0 +1,10 @@
+^E:\GLGEMS\GLEW-2.1.0\BUILD\CMAKE\CMAKELISTS.TXT
+setlocal
+"D:\Program Files\CMake\bin\cmake.exe" -SE:/GLGems/glew-2.1.0/build/cmake -BE:/GLGems/glew-2.1.0/bin --check-stamp-file E:/GLGems/glew-2.1.0/bin/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

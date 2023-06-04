@@ -1,0 +1,8 @@
+﻿  main.cpp
+main.obj : error LNK2019: 无法解析的外部符号 __imp__glewInit@0，函数 _main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 _glfwInit，函数 _main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 _glfwTerminate，函数 _main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 _glfwCreateWindow，函数 _main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 _glfwMakeContextCurrent，函数 _main 中引用了该符号
+E:\GLGems\Libraries\glfw-3.3.7.bin.WIN64\lib-vc2019\glfw3.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+E:\GLGems\Debug\base.exe : fatal error LNK1120: 5 个无法解析的外部命令
