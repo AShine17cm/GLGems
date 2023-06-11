@@ -15,7 +15,7 @@
 
 #include "Model.h"
 
-const unsigned int width = 800;
+const unsigned int width = 1200;
 const unsigned int height = 800;
 
 int main()
@@ -26,7 +26,7 @@ int main()
 	glfwWindowHint(GLFW_CONTEXT_VERSION_MINOR, 3);
 
 	glfwWindowHint(GLFW_OPENGL_PROFILE, GLFW_OPENGL_CORE_PROFILE);
-	GLFWwindow* window = glfwCreateWindow(800, 800, "GL Gems", NULL, NULL);
+	GLFWwindow* window = glfwCreateWindow(width, height, "GL Gems", NULL, NULL);
 	if (window == NULL)
 	{
 		std::cout << "´´½¨ GLFW ´°¿ÚÊ§°Ü" << std::endl;

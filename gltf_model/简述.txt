@@ -1,0 +1,2 @@
+Bug 系列
+vertex shader中的bug 	将 vec4 赋值给 vec3 输出变量	 可能导致 模型旋转错误

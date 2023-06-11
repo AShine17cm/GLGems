@@ -54,9 +54,9 @@ void Mesh::Draw
 	glm::mat4 vp = camera.vp;
 
 	//相机位置 高光
-	glUniform3f(glGetUniformLocation(shader.ID, "camPos"), camera.Position.x, camera.Position.y, camera.Position.z);
-	glUniformMatrix4fv(glGetUniformLocation(shader.ID, "vp"), 1, GL_FALSE, glm::value_ptr(vp));
-	glUniformMatrix4fv(glGetUniformLocation(shader.ID, "model"), 1, GL_FALSE, glm::value_ptr(model));
+	glUniform3f(glGetUniformLocation(shader.ID, nm_camPos), camera.Position.x, camera.Position.y, camera.Position.z);
+	glUniformMatrix4fv(glGetUniformLocation(shader.ID, nm_vp), 1, GL_FALSE, glm::value_ptr(vp));
+	glUniformMatrix4fv(glGetUniformLocation(shader.ID, nm_model), 1, GL_FALSE, glm::value_ptr(model));
 
 	//画 Mesh
 	glDrawElements(GL_TRIANGLES, indices.size(), GL_UNSIGNED_INT, 0);

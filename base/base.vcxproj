@@ -175,6 +175,8 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Camera.h" />
+    <ClInclude Include="constants.h" />
+    <ClInclude Include="constantsShader.h" />
     <ClInclude Include="ElementBufferObject.h" />
     <ClInclude Include="Mesh.h" />
     <ClInclude Include="Model.h" />

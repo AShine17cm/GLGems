@@ -1,0 +1,12 @@
+需要装 OpenGL 4.3 	根据对应的显卡，下载
+符号服务器 https://driver-symbols.nvidia.com/
+
+VC++ 包含目录  	E:\GLGems\Libraries\GLUS-master\GLUS\src
+VC++ 库目录	E:\GLGems\Libraries\glew-2.1.0\lib
+
+链接器	附加库目录	E:\GLGems\Libraries\GLUS-master\GLUS\Debug
+			E:\GLGems\Libraries\glew-2.1.0\lib
+链接器	附加依赖项	GLUS.lib	glew32s.lib
+
+VS 报错 未加载 nvoglv64.pdg	   资源路径不对，代码内部出错，但是报的是 显卡驱动的错
+

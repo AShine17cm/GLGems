@@ -8,6 +8,7 @@
 #include"Camera.h"
 #include"Texture.h"
 
+#include "constants.h"
 class Mesh
 {
 public:

@@ -1,0 +1,54 @@
+﻿  Building Custom Rule E:/OpenGLProj/GLUS-master/GLUS/CMakeLists.txt
+  glus_axisalignedbox.c
+  glus_complex.c
+  glus_extension.c
+  glus_file.c
+  glus_file_binary.c
+  glus_file_text.c
+  glus_fourier.c
+  glus_image.c
+  glus_image_hdr.c
+  glus_image_pkm.c
+  glus_image_tga.c
+E:\OpenGLProj\GLUS-master\GLUS\src\glus_image_tga.c(800,202): warning C4244: “=”: 从“GLUSfloat”转换到“GLUSubyte”，可能丢失数据
+E:\OpenGLProj\GLUS-master\GLUS\src\glus_image_tga.c(829,230): warning C4244: “=”: 从“GLUSfloat”转换到“GLUSubyte”，可能丢失数据
+E:\OpenGLProj\GLUS-master\GLUS\src\glus_image_tga.c(870,25): warning C4244: “=”: 从“float”转换到“GLUSubyte”，可能丢失数据
+E:\OpenGLProj\GLUS-master\GLUS\src\glus_image_tga.c(874,204): warning C4244: “+=”: 从“GLUSfloat”转换到“GLUSubyte”，可能丢失数据
+  glus_intersect.c
+  glus_line.c
+  glus_line_wavefront.c
+  glus_log.c
+  glus_math.c
+  glus_matrix.c
+  glus_matrix_planar.c
+  glus_matrix_viewprojection.c
+  glus_memory.c
+  正在生成代码...
+  正在编译...
+  glus_orientedbox.c
+  glus_padding.c
+  glus_perlin.c
+  glus_plane.c
+  glus_point.c
+  glus_profile.c
+  glus_program.c
+  glus_programpipeline.c
+  glus_quaternion.c
+  glus_random.c
+  glus_raytrace.c
+  glus_screenshot.c
+  glus_shape.c
+  glus_shape_adjacency.c
+  glus_shape_texgen.c
+  glus_shape_wavefront.c
+  glus_sphere.c
+  glus_time.c
+  glus_vector.c
+  glus_version.c
+  正在生成代码...
+  正在编译...
+  glus_wavefront.c
+  glus_window_glfw.c
+  glus_window_recording.c
+  正在生成代码...
+  GLUS.vcxproj -> E:\OpenGLProj\GLUS-master\GLUS\Debug\GLUS.lib

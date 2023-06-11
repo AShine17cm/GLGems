@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(499,5): warning MSB8004: Output 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
+  main.c
+MSVCRTD.lib(initializers.obj) : warning LNK4098: 默认库“msvcrt.lib”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+GLUS.lib(glus_window_glfw.obj) : error LNK2001: 无法解析的外部符号 __glewDebugMessageCallback
+GLUS.lib(glus_window_glfw.obj) : error LNK2001: 无法解析的外部符号 glewExperimental
+GLUS.lib(glus_screenshot.obj) : error LNK2001: 无法解析的外部符号 __glewBindFramebuffer
+.\glusTest.exe : fatal error LNK1120: 3 个无法解析的外部命令

@@ -1,0 +1,10 @@
+^E:\OPENGLPROJ\GLUS-MASTER\GLUS\CMAKEFILES\B484A44F87B94C4031B70FEF203FB30B\GENERATE.STAMP.RULE
+setlocal
+"D:\Program Files\CMake\bin\cmake.exe" -SE:/OpenGLProj/GLUS-master/GLUS -BE:/OpenGLProj/GLUS-master/GLUS --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file E:/OpenGLProj/GLUS-master/GLUS/GLUS.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

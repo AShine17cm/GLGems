@@ -1,0 +1,345 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\OpenGLProj\GLUS-master\GLUS\src\glus_axisalignedbox.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\OpenGLProj\GLUS-master\GLUS\src\glus_complex.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\OpenGLProj\GLUS-master\GLUS\src\glus_extension.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\OpenGLProj\GLUS-master\GLUS\src\glus_file.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\OpenGLProj\GLUS-master\GLUS\src\glus_file_binary.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\OpenGLProj\GLUS-master\GLUS\src\glus_file_text.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\OpenGLProj\GLUS-master\GLUS\src\glus_fourier.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\OpenGLProj\GLUS-master\GLUS\src\glus_image.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\OpenGLProj\GLUS-master\GLUS\src\glus_image_hdr.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\OpenGLProj\GLUS-master\GLUS\src\glus_image_pkm.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\OpenGLProj\GLUS-master\GLUS\src\glus_image_tga.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\OpenGLProj\GLUS-master\GLUS\src\glus_intersect.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\OpenGLProj\GLUS-master\GLUS\src\glus_line.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\OpenGLProj\GLUS-master\GLUS\src\glus_line_wavefront.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\OpenGLProj\GLUS-master\GLUS\src\glus_log.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\OpenGLProj\GLUS-master\GLUS\src\glus_math.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\OpenGLProj\GLUS-master\GLUS\src\glus_matrix.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\OpenGLProj\GLUS-master\GLUS\src\glus_matrix_planar.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\OpenGLProj\GLUS-master\GLUS\src\glus_matrix_viewprojection.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\OpenGLProj\GLUS-master\GLUS\src\glus_memory.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\OpenGLProj\GLUS-master\GLUS\src\glus_orientedbox.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\OpenGLProj\GLUS-master\GLUS\src\glus_padding.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\OpenGLProj\GLUS-master\GLUS\src\glus_perlin.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\OpenGLProj\GLUS-master\GLUS\src\glus_plane.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\OpenGLProj\GLUS-master\GLUS\src\glus_point.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\OpenGLProj\GLUS-master\GLUS\src\glus_profile.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\OpenGLProj\GLUS-master\GLUS\src\glus_program.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\OpenGLProj\GLUS-master\GLUS\src\glus_programpipeline.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\OpenGLProj\GLUS-master\GLUS\src\glus_quaternion.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\OpenGLProj\GLUS-master\GLUS\src\glus_random.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\OpenGLProj\GLUS-master\GLUS\src\glus_raytrace.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\OpenGLProj\GLUS-master\GLUS\src\glus_screenshot.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\OpenGLProj\GLUS-master\GLUS\src\glus_shape.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\OpenGLProj\GLUS-master\GLUS\src\glus_shape_adjacency.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\OpenGLProj\GLUS-master\GLUS\src\glus_shape_texgen.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\OpenGLProj\GLUS-master\GLUS\src\glus_shape_wavefront.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\OpenGLProj\GLUS-master\GLUS\src\glus_sphere.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\OpenGLProj\GLUS-master\GLUS\src\glus_time.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\OpenGLProj\GLUS-master\GLUS\src\glus_vector.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\OpenGLProj\GLUS-master\GLUS\src\glus_version.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\OpenGLProj\GLUS-master\GLUS\src\glus_wavefront.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\OpenGLProj\GLUS-master\GLUS\src\glus_window_glfw.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\OpenGLProj\GLUS-master\GLUS\src\glus_window_recording.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\OpenGLProj\GLUS-master\GLUS\src\GL\glus.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\OpenGLProj\GLUS-master\GLUS\src\GLES2\glus2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\OpenGLProj\GLUS-master\GLUS\src\GLES3\glus3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\OpenGLProj\GLUS-master\GLUS\src\GLES3\glus31.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\OpenGLProj\GLUS-master\GLUS\src\GLUS\glus_axisalignedbox.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\OpenGLProj\GLUS-master\GLUS\src\GLUS\glus_clib.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\OpenGLProj\GLUS-master\GLUS\src\GLUS\glus_complex.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\OpenGLProj\GLUS-master\GLUS\src\GLUS\glus_define.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\OpenGLProj\GLUS-master\GLUS\src\GLUS\glus_define_color.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\OpenGLProj\GLUS-master\GLUS\src\GLUS\glus_define_color_channel.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\OpenGLProj\GLUS-master\GLUS\src\GLUS\glus_define_color_channel_es.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\OpenGLProj\GLUS-master\GLUS\src\GLUS\glus_define_color_channel_vg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\OpenGLProj\GLUS-master\GLUS\src\GLUS\glus_define_color_vg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\OpenGLProj\GLUS-master\GLUS\src\GLUS\glus_define_shader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\OpenGLProj\GLUS-master\GLUS\src\GLUS\glus_define_shader_es.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\OpenGLProj\GLUS-master\GLUS\src\GLUS\glus_define_shader_es31.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\OpenGLProj\GLUS-master\GLUS\src\GLUS\glus_define_uint.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\OpenGLProj\GLUS-master\GLUS\src\GLUS\glus_define_ushort.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\OpenGLProj\GLUS-master\GLUS\src\GLUS\glus_egl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\OpenGLProj\GLUS-master\GLUS\src\GLUS\glus_extension.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\OpenGLProj\GLUS-master\GLUS\src\GLUS\glus_file.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\OpenGLProj\GLUS-master\GLUS\src\GLUS\glus_file_binary.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\OpenGLProj\GLUS-master\GLUS\src\GLUS\glus_file_text.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\OpenGLProj\GLUS-master\GLUS\src\GLUS\glus_fourier.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\OpenGLProj\GLUS-master\GLUS\src\GLUS\glus_function.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\OpenGLProj\GLUS-master\GLUS\src\GLUS\glus_glfw_es.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\OpenGLProj\GLUS-master\GLUS\src\GLUS\glus_image.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\OpenGLProj\GLUS-master\GLUS\src\GLUS\glus_image_hdr.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\OpenGLProj\GLUS-master\GLUS\src\GLUS\glus_image_pkm.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\OpenGLProj\GLUS-master\GLUS\src\GLUS\glus_image_tga.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\OpenGLProj\GLUS-master\GLUS\src\GLUS\glus_intersect.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\OpenGLProj\GLUS-master\GLUS\src\GLUS\glus_line.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\OpenGLProj\GLUS-master\GLUS\src\GLUS\glus_line_wavefront.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\OpenGLProj\GLUS-master\GLUS\src\GLUS\glus_log.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\OpenGLProj\GLUS-master\GLUS\src\GLUS\glus_math.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\OpenGLProj\GLUS-master\GLUS\src\GLUS\glus_matrix.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\OpenGLProj\GLUS-master\GLUS\src\GLUS\glus_matrix_planar.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\OpenGLProj\GLUS-master\GLUS\src\GLUS\glus_matrix_viewprojection.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\OpenGLProj\GLUS-master\GLUS\src\GLUS\glus_memory.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\OpenGLProj\GLUS-master\GLUS\src\GLUS\glus_orientedbox.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\OpenGLProj\GLUS-master\GLUS\src\GLUS\glus_padding.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\OpenGLProj\GLUS-master\GLUS\src\GLUS\glus_perlin.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\OpenGLProj\GLUS-master\GLUS\src\GLUS\glus_plane.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\OpenGLProj\GLUS-master\GLUS\src\GLUS\glus_point.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\OpenGLProj\GLUS-master\GLUS\src\GLUS\glus_profile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\OpenGLProj\GLUS-master\GLUS\src\GLUS\glus_program.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\OpenGLProj\GLUS-master\GLUS\src\GLUS\glus_program_es.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\OpenGLProj\GLUS-master\GLUS\src\GLUS\glus_program_es31.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\OpenGLProj\GLUS-master\GLUS\src\GLUS\glus_programpipeline.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\OpenGLProj\GLUS-master\GLUS\src\GLUS\glus_programpipeline_es31.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\OpenGLProj\GLUS-master\GLUS\src\GLUS\glus_quaternion.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\OpenGLProj\GLUS-master\GLUS\src\GLUS\glus_random.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\OpenGLProj\GLUS-master\GLUS\src\GLUS\glus_raytrace.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\OpenGLProj\GLUS-master\GLUS\src\GLUS\glus_screenshot.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\OpenGLProj\GLUS-master\GLUS\src\GLUS\glus_shape.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\OpenGLProj\GLUS-master\GLUS\src\GLUS\glus_shape_adjacency.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\OpenGLProj\GLUS-master\GLUS\src\GLUS\glus_shape_texgen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\OpenGLProj\GLUS-master\GLUS\src\GLUS\glus_shape_wavefront.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\OpenGLProj\GLUS-master\GLUS\src\GLUS\glus_sphere.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\OpenGLProj\GLUS-master\GLUS\src\GLUS\glus_time.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\OpenGLProj\GLUS-master\GLUS\src\GLUS\glus_typedef.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\OpenGLProj\GLUS-master\GLUS\src\GLUS\glus_vector.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\OpenGLProj\GLUS-master\GLUS\src\GLUS\glus_version.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\OpenGLProj\GLUS-master\GLUS\src\GLUS\glus_wavefront.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\OpenGLProj\GLUS-master\GLUS\src\GLUS\glus_window.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\OpenGLProj\GLUS-master\GLUS\src\VG\glus.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\OpenGLProj\GLUS-master\GLUS\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{CFF5C5FB-30FA-35FA-9DB3-2AD921BEB191}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{BEB70168-2863-31F8-9ACE-6169C5148929}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

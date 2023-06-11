@@ -1,0 +1,3 @@
+﻿  main.cpp
+E:\GLGems\Fourier_Ocean\src\main.cpp(211,19): warning C4018: “<”: 有符号/无符号不匹配
+  Fourier_Ocean.vcxproj -> E:\GLGems\Fourier_Ocean\Fourier_Ocean.exe

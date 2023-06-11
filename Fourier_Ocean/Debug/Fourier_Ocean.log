@@ -1,0 +1,55 @@
+﻿  main.c
+E:\GLGems\Fourier_Ocean\src\main.c(213,19): warning C4018: “<”: 有符号/无符号不匹配
+main.obj : error LNK2019: 无法解析的外部符号 _glusWindowCreate@32，函数 _main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 _glusWindowRun@0，函数 _main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 _glusWindowSetInitFunc@4，函数 _main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 _glusWindowSetReshapeFunc@4，函数 _main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 _glusWindowSetUpdateFunc@4，函数 _main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 _glusWindowSetTerminateFunc@4，函数 _main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 _glusVector2Lengthf@4，函数 _phillipsSpectrum 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 _glusVector3Normalizef@4，函数 _init 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 _glusVector2Normalizef@4，函数 _init 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 _glusVector2Dotf@8，函数 _phillipsSpectrum 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 _glusRandomNormalf@8，函数 _init 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 _glusMatrix4x4Perspectivef@20，函数 _reshape 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 _glusMatrix4x4LookAtf@40，函数 _reshape 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 _glusMatrix4x4Identityf@4，函数 _init 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 _glusMatrix4x4ExtractMatrix3x3f@8，函数 _reshape 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 _glusMatrix4x4RotateRxf@8，函数 _init 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 _glusMatrix4x4MultiplyPoint4f@12，函数 _init 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 _glusFourierButterflyShuffleFFTi，函数 _init 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 _glusProgramBuildFromSource@24，函数 _init 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 _glusProgramBuildComputeFromSource@8，函数 _init 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 _glusProgramDestroy@4，函数 _terminate 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 _glusShapeCreateRectangularGridPlanef@24，函数 _init 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 _glusShapeDestroyf@4，函数 _init 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 _glusFileLoadText@8，函数 _init 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 _glusFileDestroyText@4，函数 _init 中引用了该符号
+main.obj : error LNK2001: 无法解析的外部符号 ___glewActiveTexture
+main.obj : error LNK2001: 无法解析的外部符号 ___glewBindBuffer
+main.obj : error LNK2001: 无法解析的外部符号 ___glewBufferData
+main.obj : error LNK2001: 无法解析的外部符号 ___glewDeleteBuffers
+main.obj : error LNK2001: 无法解析的外部符号 ___glewGenBuffers
+main.obj : error LNK2001: 无法解析的外部符号 ___glewEnableVertexAttribArray
+main.obj : error LNK2001: 无法解析的外部符号 ___glewGetAttribLocation
+main.obj : error LNK2001: 无法解析的外部符号 ___glewGetUniformLocation
+main.obj : error LNK2001: 无法解析的外部符号 ___glewUniform1f
+main.obj : error LNK2001: 无法解析的外部符号 ___glewUniform1i
+main.obj : error LNK2001: 无法解析的外部符号 ___glewUniform3fv
+main.obj : error LNK2001: 无法解析的外部符号 ___glewUniform4fv
+main.obj : error LNK2001: 无法解析的外部符号 ___glewUniformMatrix3fv
+main.obj : error LNK2001: 无法解析的外部符号 ___glewUniformMatrix4fv
+main.obj : error LNK2001: 无法解析的外部符号 ___glewUseProgram
+main.obj : error LNK2001: 无法解析的外部符号 ___glewVertexAttribPointer
+main.obj : error LNK2001: 无法解析的外部符号 ___glewDispatchCompute
+main.obj : error LNK2001: 无法解析的外部符号 ___glewBindImageTexture
+main.obj : error LNK2001: 无法解析的外部符号 ___glewMemoryBarrier
+main.obj : error LNK2001: 无法解析的外部符号 ___glewBindVertexArray
+main.obj : error LNK2001: 无法解析的外部符号 ___glewDeleteVertexArrays
+main.obj : error LNK2001: 无法解析的外部符号 ___glewGenVertexArrays
+E:\GLGems\Libraries\glfw-3.3.7.bin.WIN64\lib-vc2019\glfw3.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+E:\GLGems\Libraries\glew-2.1.0\lib\glew32d.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+E:\GLGems\Debug\base.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+E:\GLGems\Libraries\GLUS-master\GLUS\Debug\GLUS.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+E:\GLGems\Libraries\glew-2.1.0\lib\glew32s.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+E:\GLGems\Debug\Fourier_Ocean.exe : fatal error LNK1120: 47 个无法解析的外部命令

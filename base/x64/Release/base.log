@@ -1,0 +1,14 @@
+﻿  Camera.cpp
+  ElementBufferObject.cpp
+  Mesh.cpp
+E:\GLGems\base\Mesh.cpp(62,65): warning C4267: “参数”: 从“size_t”转换到“GLsizei”，可能丢失数据
+  Model.cpp
+E:\GLGems\base\Model.cpp(263,93): warning C4267: “参数”: 从“size_t”转换到“GLuint”，可能丢失数据
+E:\GLGems\base\Model.cpp(271,95): warning C4267: “参数”: 从“size_t”转换到“GLuint”，可能丢失数据
+  shaderClass.cpp
+  stb.cpp
+  Texture.cpp
+  VertexArrayObject.cpp
+E:\GLGems\base\VertexArrayObject.cpp(18,62): warning C4244: “参数”: 从“GLsizeiptr”转换到“GLsizei”，可能丢失数据
+  VertexBufferObject.cpp
+  base.vcxproj -> E:\GLGems\Release\base.lib

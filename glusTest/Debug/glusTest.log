@@ -1,0 +1,13 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(499,5): warning MSB8004: Output 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
+  main.c
+main.obj : error LNK2019: 无法解析的外部符号 _glusWindowCreate@32，函数 _main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 _glusWindowRun@0，函数 _main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 _glusWindowSetInitFunc@4，函数 _main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 _glusWindowSetReshapeFunc@4，函数 _main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 _glusWindowSetUpdateFunc@4，函数 _main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 _glusWindowSetTerminateFunc@4，函数 _main 中引用了该符号
+E:\GLGems\Libraries\glfw-3.3.7.bin.WIN64\lib-vc2019\glfw3.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+E:\GLGems\Libraries\glew-2.1.0\lib\glew32d.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+E:\GLGems\Debug\base.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+E:\GLGems\Libraries\glus\lib\GLUS.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+.\glusTest.exe : fatal error LNK1120: 6 个无法解析的外部命令
